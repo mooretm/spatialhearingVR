@@ -1,0 +1,186 @@
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Textures\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery 1\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery 1\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Riften\Desktop\Moore\Unity\Shooting Gallery - VR - Matlab\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Travis\Documents\PhD\Projects\2017 Dissertation\Unity\Shooting Gallery - VR - Matlab\obj\Debug\Assembly-CSharp-firstpass.pdb
